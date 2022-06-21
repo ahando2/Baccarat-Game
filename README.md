@@ -3,7 +3,7 @@ Java Base Baccarat Game with graphic card ( card image [credits](https://snap2ob
 # How to Run
 - open `server/src/main/java` on terminal.
 - run `javac serverGUI.java`.
-- run `java serverGUI.
+- run `java serverGUI`.
 - insert port number ex:`8080`.
 - open `client/src/main/java` on terminal.
 - run `javac clientGUI.java`.
