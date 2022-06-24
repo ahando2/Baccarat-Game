@@ -10,7 +10,7 @@ Java Base Baccarat Game with graphic card ( card image [credits](https://snap2ob
 - run `java clientGUI`.
 - insert ip as `127.0.0.1` and port the same number as server port number.
 - Happy playing!
-# Gameplay SnapShot
+# Gameplay Snapshot
 ## Client
 ![image](https://user-images.githubusercontent.com/55163592/174784036-517f197f-92f9-4450-9f9b-4726648ed9a6.png)
 ![image](https://user-images.githubusercontent.com/55163592/174783815-7d12784c-e26b-431d-a7a4-fd74a20292a0.png)
