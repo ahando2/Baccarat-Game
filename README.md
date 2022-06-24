@@ -1,5 +1,5 @@
 # Baccarat-Game
-Java Base Baccarat Game with graphic card ( card image [credits](https://snap2objects.com/2012/01/26/free-vector-playing-cards-deck/) ) using server and client system.
+Java base Baccarat Game ( playing card image [credits](https://snap2objects.com/2012/01/26/free-vector-playing-cards-deck/) ) using server and client system.
 # How to Run
 - open `server/src/main/java` on terminal.
 - run `javac serverGUI.java`.
